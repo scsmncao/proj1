@@ -20,5 +20,6 @@ The line goes to application.html.erb and at the end, there's a line that direct
 # Give us feedback on the project and decal below!
 
 # Extra credit: Link your Heroku deployed app
+https://tranquil-garden-57471.herokuapp.com/
 
 https://github.com/scsmncao/proj1
